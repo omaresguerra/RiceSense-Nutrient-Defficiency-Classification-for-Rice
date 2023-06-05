@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/625872100.svg)](https://zenodo.org/badge/latestdoi/625872100)
+
 <img src="https://github.com/omaresguerra/RiceSense-Nutrient-Defficiency-Classification-for-Rice/blob/0fca92ce08e971af919b023c6b6aed4bb53c0be1/SIF%20DigiLabs%20Foundational%20Project_Esguerra.png" alt="RiceSense Logo">
 
 # RiceSense: Rice Nutrient Defficiency Classification
